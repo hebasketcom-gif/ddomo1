@@ -1,0 +1,6 @@
+{
+  "name": "AegisMed AI Healthcare & Dental Academy",
+  "description": "Premier AI-powered healthcare software, diagnostic reporting as a service (RaaS), and CME-accredited dental and medical academy for clinicians worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
